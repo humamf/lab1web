@@ -9,3 +9,5 @@
 ## Memformat teks
 ![format_teks](SS/formatteks.png)
 
+## Menambahkan Logo UPB
+![LogoUPB](SS/logoUPB.png)
