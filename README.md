@@ -6,7 +6,7 @@ Menggunakan tag p untuk membuat paragraf.
 
 ## Heading
 ![heading](SS/heading.png)
-Heading atau Judul menggunakan tag h1 (terbesar) sampai (h6) terkecil.
+Heading atau Judul menggunakan tag h1 (terbesar) sampai h6 (terkecil).
 
 ## Memformat teks
 ![format_teks](SS/formatteks.png)
