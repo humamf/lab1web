@@ -2,7 +2,7 @@
 
 ## Paragraf
 ![paragraf](SS/paragraf.png) 
-Menggunakan tag <p> untuk membuat paragraf.
+Menggunakan tag p untuk membuat paragraf.
 
 ## Heading
 ![heading](SS/heading.png)
