@@ -20,12 +20,20 @@ mengenal tag-tag dasar HTML.</p>
  sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
 ```
 
+Maka akan tampil sebagai berikut
 ![paragraf](SS/paragraf.png) 
 
 
 ## 2.Menambahkan Judul atau Heading
+Menambahkan judul atau heading dengan menggunakan tag ```<h1>``` (terbesar) sampai ```<h6>``` (terkecil)
+```
+<!-- judul paragraf pertama -->
+    <h1>Belajar Dasar HTML</h1>
+<!-- judul paragraf kedua -->
+    <h2>Belajar Dasar HTML</h2>
+```
+Maka akan tampil sebagai berikut
 ![heading](SS/heading.png)
-Heading atau Judul menggunakan tag <**h1**> (terbesar) sampai <**h6**> (terkecil).
 
 ## 3.Menambahkan Memformat teks
 ![format_teks](SS/formatteks.png)
