@@ -1,4 +1,11 @@
-# Tugas HTML
+# Praktikum 1
+
+## Jawab Pertanyaan Berikut
+Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+Apa perbedaan atribut title dan alt pada tag , berikan penjelasannya!
+Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjeleasannya!
+Pada link tambahkan atribut targer dengan nilai atribut bervariasi(_blank, _self, _top, _parent), apa yang terjadi pada masing-masing nilai atribut tersebut?
 
 ## Paragraf
 ![paragraf](SS/paragraf.png) 
