@@ -36,13 +36,30 @@ Maka akan tampil sebagai berikut
 ![heading](SS/heading.png)
 
 ## 3.Menambahkan Memformat teks
+Menambahkan format dengan menggunakan tag ```<b>, <i>, <u>```
+
+Maka akan tampil sebagai berikut
 ![format_teks](SS/formatteks.png)
-Membuat variasi didalam paragraf dengan memberi background color pada kalimat tertentu, jika ingin menebalkan kata menggunakan tag <**b**>, tulisan miring menggunakan tag <**i**>, garis bawah menggunakan tag <**u**>.
 
 ## 4.Menambahkan Logo UPB
+Menambahkan foto menggunakan tag ```<img>```
+```
+<!-- menambahkan gambar pada dokumen -->
+    <img width="200" src="SS/logoUPB.png" alt="Logo Universitas Pelita Bangsa">
+```
+Maka akan tampil sebagai berikut
 ![LogoUPB](SS/menambahkanLogoUPB.png)
-Untuk menambahkan foto dengan menggunakan tag img dan cari file sesuai pada penyimpanan. 
+
 
 ## 5.Menambahkan Hyperlink
+Menambahkan Hyperlink menggunakan tag ```<a>```
+```
+<nav>
+    <a href="">Home</a>
+    <a href="halaman2.html">Halaman 2</a>
+    <a href="https://github.com/humamf/lab1web">My Github</a>
+</nav>
+<hr>
+```
+Maka akan tampil sebagai berikut
 ![Hyperlink](SS/hyperlink.png)
-Untuk menambahkan link yang ingin anda taruh di web dengan menggunakan tag a. 
