@@ -28,7 +28,7 @@ Menambahkan judul atau heading dengan menggunakan tag ```<h1>``` (terbesar) samp
 Maka akan tampil sebagai berikut
 ![heading](SS/heading.png)
 
-## 3.Menambahkan Memformat teks
+## 3.Menambahkan Format teks
 Menambahkan format dengan menggunakan tag ```<b>, <i>, <u>```
 
 Maka akan tampil sebagai berikut
