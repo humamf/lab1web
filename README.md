@@ -8,12 +8,13 @@
 5. Pada **link** tambahkan atribut **target** dengan nilai atribut bervariasi(**_blank**, **_self**, _**top**, **_parent**), apa yang terjadi pada masing-masing nilai atribut tersebut?
 
 ## 1.Membuat Paragraf
-Membuat 2 paragraf menggunakan tag ''' <p></p> '''
-'''
+Membuat 2 paragraf menggunakan tag ``` <p></p> ```
+```
 <!-- Ini adalah paragraf pertama -->
 <p>Perkenalkan nama saya Humam Fathurrahman ,saya sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.</p>
 <!-- Ini adalah paragraf kedua -->
-<p>Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>'''
+<p>Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
+```
 
 ![paragraf](SS/paragraf.png) 
 
